@@ -38,7 +38,7 @@ public class ValidacoesListaTests
     public void NaoDeveConterONumero10NaLista()
     {
         //TODO: Implementar método de teste
-/ Arrange
+        // Arrange
         var lista = new List<int> { 5, -1, -8, 9 };
         var numeroParaProcurar = 10;
 
